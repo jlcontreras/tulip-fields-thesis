@@ -1,0 +1,4 @@
+Augmentor==0.2.2
+matplotlib==2.2.2
+scikit-image==0.13.1
+tqdm==4.23.3
