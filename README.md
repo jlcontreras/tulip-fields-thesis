@@ -20,7 +20,7 @@ Sections below detail each of these steps.
 
 ## 2. Download data 
 
-TODO: Add download link
+Download link will be added soon, once the bundled datasets are ready.
 
 ## 3. Training
 
@@ -65,4 +65,4 @@ Again, ```python3 src/inference.py -h``` for additional options and functionalit
 
 ### 5. Saved model params files
 
-The last trained models are available at TODO: Provide files
+A download link for the model parameters will be provided soon.
