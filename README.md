@@ -1,18 +1,18 @@
 # Tulip field segmentation
 
-This repository contains the code for the tulip field segmentation project, to be published at Amazon's and Sinergise ML blogs.
+This repository contains the code for the tulip field segmentation project, to be published at AWS's and Sinergise ML blogs.
 
 
 ## 1. Introduction
 
-The goal of this project is to perform segmentation on satellite images to identify tulip fields. The images are taken by ESA's Sentinel-2 mission.  
+The goal of this project is to perform segmentation on satellite images to identify which parts of those images correspond to tulip fields. The images are taken by ESA's Sentinel-2 mission. 
 
 The process consists of three main steps:
 1. **Download satellite images** from Sinergise's Sentinel Hub WMS
 2. **Preprocess** the images to remove the cloudy ones
 3. **Segment** tulip fields in the clear images
 
-For ease of use, we took care of steps 1 and 2 for you, and provide a packaged, cloud filtered dataset. It is available at: \[see blgo post\]
+For ease of use, I took care of steps 1 and 2 for you, and provide a packaged, cloud filtered dataset. It is available at: \[see blgo post\]
 
   
 Sections below detail each of these steps.
